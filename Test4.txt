@@ -1,0 +1,13 @@
+*- more errors that will be caught - *
+
+xvar
+
+varx
+
+x = 42
+
+print("hello")
+
+x = y + 1
+
+*- Comment can not include capital letters -*

@@ -1,0 +1,4 @@
+*- correct statements -*
+print ( " hello world " )
+var a
+a = " hello world "
